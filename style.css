@@ -1,0 +1,75 @@
+.img-size{
+    height: 50px;
+}
+.bannerimg1{
+    height: 70vh;
+    width: 100%;
+}
+.uni{
+    padding-top: 150px;
+}
+.click{
+    color: #6bc449;
+    font-weight: 900;
+}
+.click1{
+    color: #6bc449;
+}
+.button1{
+    background-color: #6bc449;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    width: 17%;
+    height: 36px;
+}    
+.hpad{
+    padding-left: 180px;
+    padding-top: 50px;
+}
+.paad1{
+    position: relative;
+    left: 219px;
+    height: 60vh;
+    width: 30%;
+}
+.paad2{
+    height: 60vh;
+    width: 50%;
+}
+.button2{
+    background-color: #6bc449;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    width: 25%;
+    height: 36px;
+    margin-left: 153px;
+}
+.banner{
+    background-image: linear-gradient(to right,#6bc449 ,#6ad72f);
+}
+#footer,#footer1,#footer2{
+    background-color: black;
+}
+.button5{
+    background-color: #6bc449;
+}
+#banner-img{
+    background-image: url("images/banner-new.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.cold-id{
+    background-color: #6bc449;
+    margin-bottom: 20px;
+    width: 20%;
+    height: 36px;
+}
+.moon{
+    margin-top: 50px;
+    background-color: white;
+}
